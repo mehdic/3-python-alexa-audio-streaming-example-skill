@@ -1,0 +1,28 @@
+{
+    "SKILL_NAME": "the Dabble Lab audio player template",
+    "ABOUT": [
+        "Il s'agit d'une compétence de diffusion audio qui a été créée avec un modèle gratuit de dabblelab.com. Pour continuer à écouter, dites : reprenez ou dites : arrêtez pour arrêter d'écouter."
+    ],
+    "ABOUT_REPROMPT":[
+        "Pour continuer à écouter, dites : reprenez ou dites : arrêtez pour arrêter d'écouter."
+    ],
+    "HELP": [
+        "Cette compétence lit un flux audio lorsqu'elle est démarrée. Elle n'a aucune fonctionnalité supplémentaire."
+    ],
+    "HELP_REPROMPT": [
+        "Cette compétence lit un flux audio lorsqu'elle est démarrée. Elle n'a aucune fonctionnalité supplémentaire."
+    ],
+    "FALLBACK": [
+        "Désolé, je n'ai pas compris. Pour démarrer le flux, dites : jouez."
+    ],
+    "FALLBACK_REPROMPT": [
+        "Désolé, je n'ai pas compris. Pour démarrer le flux, dites : jouez."
+    ],
+    "UNHANDLED":[
+        "Cette fonctionnalité n'est pas encore prise en charge.",
+        "Désolé, nous ne prenons actuellement pas en charge cette fonctionnalité."
+    ],
+    "DEVICE_NOT_SUPPORTED" : "Désolé, cette compétence n'est pas prise en charge sur cet appareil",
+    "ERROR": "Désolé, je n'ai pas pu traiter votre dernière demande. Pourriez-vous répéter ?",
+    "ERROR_REPROMPT": "Pourriez-vous répéter cela "
+}
