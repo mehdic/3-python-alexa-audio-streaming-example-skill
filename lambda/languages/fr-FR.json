@@ -1,28 +1,28 @@
 {
     "SKILL_NAME": "the Dabble Lab audio player template",
     "ABOUT": [
-        "This is an audio streaming skill that was built with a free template from dabblelab.com. To continue listening say: resume, or say: stop to stop listening."
+        "Il s'agit d'une compétence de diffusion audio qui a été créée avec un modèle gratuit de dabblelab.com. Pour continuer à écouter, dites : reprenez ou dites : arrêtez pour arrêter d'écouter."
     ],
     "ABOUT_REPROMPT":[
-        "To continue listening say: resume, or say: stop to stop listening."
+        "Pour continuer à écouter, dites : reprenez ou dites : arrêtez pour arrêter d'écouter."
     ],
     "HELP": [
-        "This skill plays an audio stream when it is started. It does not have any additional functionality."
+        "Cette compétence lit un flux audio lorsqu'elle est démarrée. Elle n'a aucune fonctionnalité supplémentaire."
     ],
     "HELP_REPROMPT": [
-        "This skill plays an audio stream when it is started. It does not have any additional functionality."
+        "Cette compétence lit un flux audio lorsqu'elle est démarrée. Elle n'a aucune fonctionnalité supplémentaire."
     ],
     "FALLBACK": [
-        "Sorry, I didn't understand that. To start the stream say: play."
+        "Désolé, je n'ai pas compris. Pour démarrer le flux, dites : jouez."
     ],
     "FALLBACK_REPROMPT": [
-        "Sorry, I didn't understand that. To start the stream say: play."
+        "Désolé, je n'ai pas compris. Pour démarrer le flux, dites : jouez."
     ],
     "UNHANDLED":[
-        "This feature isn't supported yet.",
-        "Sorry, we currently do not support this feature."
+        "Cette fonctionnalité n'est pas encore prise en charge.",
+        "Désolé, nous ne prenons actuellement pas en charge cette fonctionnalité."
     ],
-    "DEVICE_NOT_SUPPORTED" : "Sorry, this skill is not supported on this device",
-    "ERROR": "Sorry, I wasn't able to handle your last request. Could you say that again?",
-    "ERROR_REPROMPT": "Could you say that again?"
+    "DEVICE_NOT_SUPPORTED" : "Désolé, cette compétence n'est pas prise en charge sur cet appareil",
+    "ERROR": "Désolé, je n'ai pas pu traiter votre dernière demande. Pourriez-vous répéter ?",
+    "ERROR_REPROMPT": "Pourriez-vous répéter cela "
 }
