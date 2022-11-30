@@ -2,6 +2,23 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
+         "en-US": {
+          "summary": "Sample Short Description",
+          "examplePhrases": [
+           "Alexa ouvre le modèle trois",
+           "Modèle de démarrage Alexa trois",
+           "Modèle de lancement Alexa trois "
+          ],
+          "keywords": [
+            "motclé1",
+            "motclé2",
+            "motclé3"
+          ],
+          "name": "Template Three - Radio Streaming Skill Example",
+          "description": " Description",
+          "smallIconUri": "file://assets/images/fr-FR_smallIconUri.png",
+          "largeIconUri": "file://assets/images/fr-FR_largeIconUri.png"
+        },
         "en-US": {
           "summary": "Sample Short Description",
           "examplePhrases": [
@@ -129,6 +146,10 @@
     "privacyAndCompliance": {
       "allowsPurchases": false,
       "locales": {
+        "fr-FR": {
+          "termsOfUseUrl": "http://dabblelab.com/terms",
+          "privacyPolicyUrl": "http://dabblelab.com/privacy"
+        },
         "en-US": {
           "termsOfUseUrl": "http://dabblelab.com/terms",
           "privacyPolicyUrl": "http://dabblelab.com/privacy"
